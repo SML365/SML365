@@ -18,3 +18,8 @@ Solo developer of the Direct+ Programming Language and IDE
 ## Links: 
 
 [Scratch Profile](https://scratch.mit.edu/users/SML_365)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python" height="48"/>
+  <img src="[YOUR_CUSTOM_ICON_URL](https://github.com/user-attachments/assets/6e22e14b-309e-48a6-9554-c851af44cb8f)" height="48" style="vertical-align: middle;"/>
+</p>
