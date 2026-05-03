@@ -1,5 +1,3 @@
 ## Hi there
 
-```diff
-!asd
-```
+Solo developer of Direct+
