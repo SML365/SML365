@@ -1,6 +1,7 @@
 # Hello :D
 
 Status: Active
+Solo developer of the Direct+ Programming Language and IDE
 
 ## Programming Languages:
 
