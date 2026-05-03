@@ -3,7 +3,11 @@
 Solo developer of the Direct+ Programming Language and IDE
 
 ## Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)     ![Direct+](https://github.com/user-attachments/assets/6e22e14b-309e-48a6-9554-c851af44cb8f)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python" height="48"/>
+  <img src="https://github.com/user-attachments/assets/e5d97a7f-591a-4510-ac3c-3a9d49dec60e" height="48" style="vertical-align: middle; position: relative; left: 4px;"/>
+
 
 ## Other Skills:
 
@@ -18,8 +22,3 @@ Solo developer of the Direct+ Programming Language and IDE
 ## Links: 
 
 [Scratch Profile](https://scratch.mit.edu/users/SML_365)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python" height="48"/>
-  <img src="https://github.com/user-attachments/assets/6e22e14b-309e-48a6-9554-c851af44cb8f" height="48" style="vertical-align: middle;"/>
-</p>
