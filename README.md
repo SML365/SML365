@@ -6,7 +6,7 @@ Solo developer of the Direct+ Programming Language and IDE
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,python" height="48"/>
-  <img src="https://github.com/user-attachments/assets/e5d97a7f-591a-4510-ac3c-3a9d49dec60e" height="48" style="vertical-align: middle; position: relative; left: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/e5d97a7f-591a-4510-ac3c-3a9d49dec60e" height="48" style="position: relative; left: 4px;"/>
 
 
 ## Other Skills:
