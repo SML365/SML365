@@ -15,3 +15,5 @@ Status: Active
 [Scratch Profile](https://scratch.mit.edu/users/1183429217)
 
 [Direct+ (Programming Language and IDE)](https://scratch.mit.edu/projects/1183429217)
+
+[Direct+ Documentation](https://sml365.github.io/docs)
