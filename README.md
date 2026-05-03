@@ -3,7 +3,7 @@
 Solo developer of the Direct+ Programming Language and IDE
 
 ## Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev) <img width="48" height="48" alt="Direct+ Logo" src="https://github.com/user-attachments/assets/715c778a-bdec-4307-85a5-df892e297d48" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev) ![Custom Image](https://github.com/user-attachments/assets/715c778a-bdec-4307-85a5-df892e297d48)<img width="48" height="48" alt="Direct+ Logo" src="https://github.com/user-attachments/assets/715c778a-bdec-4307-85a5-df892e297d48" />
 
 ## Other Skills:
 
