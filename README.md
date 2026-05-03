@@ -1,4 +1,3 @@
-<img width="144" height="144" alt="Direct+ Logo (48 x 48 px) (5)" src="https://github.com/user-attachments/assets/30768d53-71bc-4783-b5c0-c3785df333f4" />
 # Hello :D (Active)
 
 Solo developer of the Direct+ Programming Language and IDE
