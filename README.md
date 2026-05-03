@@ -8,7 +8,7 @@ Status: Active
 
 ## Other Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=blender,godot,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,godot,git,github,vscode)](https://skillicons.dev)
 
 ## Development Projects:
 
