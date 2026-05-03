@@ -6,4 +6,4 @@ Programming Languages:
 
 Other Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=blender,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=blender,godot,vscode,scratch)](https://skillicons.dev) 
