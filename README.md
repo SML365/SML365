@@ -1,9 +1,3 @@
 # Hello :D
 
-Active
-- Solo Direct+ developer
-- Scratch, HTML/CSS, Direct+
-
-[Scratch](https://scratch.mit.edu/users/SML_365)
-
-[Direct+](https://scratch.mit.edu/projects/1183429217)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,blender)](https://skillicons.dev)
