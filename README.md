@@ -1,4 +1,7 @@
 # Hello :D
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,blender,vscode)](https://skillicons.dev) 
-###### HTML CSS PYTHON BLENDER VSCODE
+Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev) 
+
+Other Skills:
+[![My Skills](https://skillicons.dev/icons?i=blender,vscode)](https://skillicons.dev) 
