@@ -14,7 +14,7 @@ Solo developer of the Direct+ Programming Language and IDE
 
 [Direct+ (Programming Language and IDE)](https://scratch.mit.edu/projects/1183429217)
 
-[Direct+ Documentation](https://sml365.github.io/Docs)
+[Direct+ Documentation](https://sml365.github.io/directplus/docs)
 
 ## Links: 
 
