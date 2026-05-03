@@ -1,6 +1,6 @@
 ## Hi there
 
-Solo developer of the Direct+ Programming Language and IDE
+<code style="color : lavender">Solo developer of the Direct+ Programming Language and IDE</code>
 
 [Scratch](https://scratch.mit.edu/users/SML_365)
 
