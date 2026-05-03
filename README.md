@@ -10,10 +10,12 @@ Status: Active
 
 [![My Skills](https://skillicons.dev/icons?i=blender,godot,git,github,vscode)](https://skillicons.dev)
 
-## Development Projects:
-
-[Scratch Profile](https://scratch.mit.edu/users/SML_365)
+## Working On:
 
 [Direct+ (Programming Language and IDE)](https://scratch.mit.edu/projects/1183429217)
 
 [Direct+ Documentation](https://sml365.github.io/Docs)
+
+## Links: 
+
+[Scratch Profile](https://scratch.mit.edu/users/SML_365)
