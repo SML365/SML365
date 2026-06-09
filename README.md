@@ -5,7 +5,7 @@ Solo developer of the Direct+ Programming Language and IDE
 ## Programming Languages:
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/6d55b3d7-c67d-4e15-af48-4c3b9e578312" height="48"/>
+  <img src="https://sml365.github.io/directplus/docs/images/logo.png" height="48"/>
   <img src="https://skillicons.dev/icons?i=html" height="48"/>
   <img src="https://skillicons.dev/icons?i=css" height="48"/>
   <img src="https://skillicons.dev/icons?i=python" height="48"/>
